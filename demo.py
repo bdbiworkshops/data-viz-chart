@@ -1,4 +1,3 @@
-import requests
 #pandas is a data manipulation library
 import pandas as pd
 
