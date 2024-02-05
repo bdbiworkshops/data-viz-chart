@@ -2,6 +2,8 @@
 import pandas as pd
 
 #dash is a web application framework
+#dcc is a library for creating dash components
+#html is a library for creating html components
 from dash import dcc
 from dash import html
 
